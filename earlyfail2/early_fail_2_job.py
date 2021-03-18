@@ -11,8 +11,7 @@ from pyats.easypy import run
 
 
 
-import sys
-sys.exit()
+raise "ok"
 
 # All run() must be inside a main function
 def main():
